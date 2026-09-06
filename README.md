@@ -1,8 +1,8 @@
-## Projeto de Análise de estatísticas básicas de jogadores da NBA
+# Projeto de Análise de estatísticas básicas de jogadores da NBA
 
-O projeto tem como finalidade trazer históricos estatísticos de determinado jogador contra um matchup específico, atualmente o projeto encontra dados das últimas 3 temporadas. 
+O projeto tem como finalidade trazer históricos estatísticos de determinado jogador contra um matchup específico com base em dados fornecidos da API pública da NBA, atualmente o projeto encontra dados das últimas 3 temporadas. 
 
-# Sobre
+## Sobre
 
 Dispõe de estatísiticas básicas como:
 
@@ -12,6 +12,6 @@ Dispõe de estatísiticas básicas como:
 4. 3 pontos feitos jogo e média dos confrontos encontrados
 5. Bloqueios por jogo e média dos confrontos encontrados
 
-# Objetivo
+## Objetivo
 
 O projeto tem como única intenção trazer dados estatísticos sobre os jogadores, para amantes do esporte e de dados estatísticos do mesmo.

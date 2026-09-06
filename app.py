@@ -129,9 +129,7 @@ if analisar:
 
                 else:
 
-                    # =============================================
                     # BUSCAR HISTÓRICO
-                    # =============================================
 
                     df_completo = obter_historico_jogos(
                         id_atleta

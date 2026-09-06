@@ -1,0 +1,4 @@
+streamlit
+pandas
+nba_api.stats.static
+nba_api.stats.endpoints
